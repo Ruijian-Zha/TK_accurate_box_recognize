@@ -1,4 +1,4 @@
-# opencv_tube
+# accurate_box_recognize
 能比较精准地框出图片中的物体，并给出方框的坐标和中心
 
 ## 筛选图形
